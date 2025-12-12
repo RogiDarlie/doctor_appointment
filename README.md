@@ -1,6 +1,7 @@
+
 ![Poster](assets/Medic.ly_poster1.png?raw=true "Medic.ly")
 
-# Medic.ly - Health and Doctor Appointment
+# Health and Doctor Appointment
 
 This is UI model of the Online Doctor Appointment booking App. It is connected to firebase for authentication and data storage.
 
